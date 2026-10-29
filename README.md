@@ -155,7 +155,7 @@ I'm open to connecting with cloud engineers, DevOps professionals, platform engi
 - 📍 Location: India
 - 📧 Email: [karanbparmarp1@gmail.com](mailto:karanbparmarp1@gmail.com)
 - 💼 LinkedIn: [karanp-devops](https://www.linkedin.com/in/karanp-devops)
-- 🐙 GitHub: [@p1kp](https://github.com/p1kp)
+- 🐙 GitHub: [@p1kp](https://github.com/kpstack)
 
 **Let's automate the repetitive, secure the critical, and build reliable systems together.**
 
