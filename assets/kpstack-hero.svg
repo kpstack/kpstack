@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Karan Parmar — Cloud and DevSecOps Engineer</title>
+  <desc id="desc">A dark midnight and burgundy abstract technology banner with subtle network lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/><stop offset=".55" stop-color="#24101C"/><stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".9"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#E5B5C7" stroke-opacity=".09"/></pattern>
+    <radialGradient id="orb"><stop offset="0" stop-color="#C77B9B" stop-opacity=".28"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="90" r="260" fill="url(#orb)"/>
+  <g fill="none" stroke="#E5B5C7" stroke-opacity=".25" stroke-width="1.4">
+    <path d="M790 42L900 96L1002 45L1110 112L1170 72M820 155L920 205L1030 145L1120 220L1190 180M875 285L970 238L1060 285L1150 250"/>
+    <circle cx="900" cy="96" r="4" fill="#E5B5C7"/><circle cx="1002" cy="45" r="4" fill="#E5B5C7"/><circle cx="1110" cy="112" r="4" fill="#E5B5C7"/>
+    <circle cx="920" cy="205" r="4" fill="#E5B5C7"/><circle cx="1030" cy="145" r="4" fill="#E5B5C7"/><circle cx="1120" cy="220" r="4" fill="#E5B5C7"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="76" y="96" font-size="17" letter-spacing="5" fill="#E5B5C7">CLOUD • PLATFORM • DEVSECOPS</text>
+    <text x="72" y="164" font-size="54" font-weight="700" fill="#F8F0F3">Karan Parmar</text>
+    <rect x="76" y="190" width="420" height="2.5" rx="1.25" fill="url(#glow)"/>
+    <text x="76" y="230" font-size="21" fill="#E5B5C7">Kubernetes · Automation · Reliability</text>
+    <text x="76" y="274" font-size="14" letter-spacing="2.5" fill="#F8F0F3" fill-opacity=".7">ENGINEER SYSTEMS THAT SCALE</text>
+  </g>
+</svg>
